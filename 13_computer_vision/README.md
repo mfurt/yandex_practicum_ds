@@ -17,7 +17,7 @@
 Определение возраста по фотографии
 
 ## Используемые библиотеки
-*pandas* *matplotlib* *numpy* *tensorflow* *pillow*
+pandas matplotlib numpy tensorflow pillow
 
 ## Статус проекта 
 
