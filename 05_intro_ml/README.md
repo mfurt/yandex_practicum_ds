@@ -19,7 +19,7 @@
 На основе данных предложить клиенту тариф.
 
 ## Используемые библиотеки
-*pandas* *matplotlib* *scikit-learn* *numpy*
+pandas matplotlib scikit-learn numpy
 
 ## Статус проекта 
 Завершен
